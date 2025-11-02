@@ -1,0 +1,9 @@
+example_project/
+examples/
+scripts/
+test_project/
+test/
+docs/
+parser/target
+parser/test
+eulix-embed/
